@@ -1,0 +1,16 @@
+#Headline
+
+## section1
+!{file1}(test1/file)
+## section2
+!{file2}(test1/foo/file)
+## section3
+!{file3}(test1/foo/bar/file)
+## section4
+!{file4}(test1/foo/foo/file)
+## section5
+!{file5}(test1/foo/bar/bar/file)
+## section6
+!{file6}(test1/foo/bar/baz/file)
+## section7
+!{file7}(test1/foo/foo/foo/file)
